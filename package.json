@@ -1,0 +1,28 @@
+{
+  "name": "slacklambda",
+  "version": "1.0.0",
+  "description": "devops slack lambda submission",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abualsamid/slacklambda.git"
+  },
+  "keywords": [
+    "slack",
+    "lambda",
+    "aws"
+  ],
+  "author": "@born2code",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abualsamid/slacklambda/issues"
+  },
+  "homepage": "https://github.com/abualsamid/slacklambda#readme",
+  "dependencies": {
+    "claudia-bot-builder": "^1.4.4",
+    "huh": "^1.1.4"
+  }
+}
